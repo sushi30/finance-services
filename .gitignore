@@ -2,6 +2,10 @@ secrets
 tmp
 .idea
 
+# serverless
+node_modules
+.serverless
+
 # temporary excel files
 ~$*.xlsx
 
